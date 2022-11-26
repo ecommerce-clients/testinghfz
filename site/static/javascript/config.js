@@ -1,0 +1,1 @@
+var SubDomain = 'testinghfz'; var SiteID = '0D7CE2D0-BB4E-4BC0-A64E-0FFFCEB34512'; var host = 'https://api.eraconnect.net';
